@@ -14,11 +14,15 @@
 </p>
 
 ## About Me
-
-- 🚀 A passionate Full-Stack Web Developer
+- 🚀 A passionate Full-Stack engineer
 - 🎹 Playing piano in my spare time
-- 📚 Currently learning full-stack Web Development at Microverse.
-
+- 💻 Creating innovative solutions for the digital realm
+- 🌐 Crafting seamless user experiences across platforms
+- 🔧 Building robust applications to power businesses
+- 🛠️ Engineering dynamic web solutions for diverse needs
+- 🌟 Shaping the online landscape with cutting-edge technology
+- 🖥️ Designing interactive experiences for the modern web landscape
+- 
 ## Skills
 
 <div align="center">

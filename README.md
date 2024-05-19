@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mumbere Habert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <b>Full Stack Web Developer | Microverse Student | CTF Newbie</b>
+  <b>A Certified Full Stack Engineer | CTF Newbie</b>
   <br>
   <i>Active Learner/Researcher | Love to Learn New Stuff</i> ❤️
   <br>
